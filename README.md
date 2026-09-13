@@ -18,41 +18,6 @@ Ce dépôt contient les pages publiques statiques de présentation et juridiques
 - 📖 **Dépôt principal** : [github.com/Dev-code3D/duetrack](https://github.com/Dev-code3D/duetrack)
 - 🎨 **Cette présentation** : [github.com/Dev-code3D/duetrack-conditions](https://github.com/Dev-code3D/duetrack-conditions)
 
-## ⚙️ Installation et déploiement
-
-### Localement
-
-```bash
-# Cloner le dépôt
-git clone https://github.com/Dev-code3D/duetrack-conditions.git
-cd duetrack-conditions
-
-# Servir les fichiers (exemple avec Python)
-python -m http.server 8000
-# Ouvrir http://localhost:8000
-```
-
-### GitHub Pages
-
-1. Dupliquez ce dépôt dans votre compte ou organisation.
-2. Vérifiez que le dossier `assets/` contient `DueTrack_Icon.png`.
-3. Activez GitHub Pages :
-   - **Paramètres** → **Pages**
-   - Source : branche `main`
-   - Vérifiez l'URL publiée
-
-## 📝 Contenus juridiques
-
-Les pages de confidentialité et conditions d'utilisation sont des **modèles informatifs**. Avant toute publication commerciale :
-
-- ✅ Faites relire les textes par un professionnel du droit
-- ✅ Adaptez-les à votre pays et juridiction
-- ✅ Complétez l'identité légale, l'adresse et les informations de contact
-- ✅ Vérifiez les services tiers réellement activés (Supabase, Google Drive, etc.)
-- ✅ Mettez à jour les dates et conditions spécifiques
-
-**⚠️ Important :** ce texte ne constitue pas un avis juridique. Consultez un professionnel avant publication.
-
 ## 🛡️ Sécurité et données
 
 Cette page est **entièrement statique** et hébergée via GitHub Pages. Aucune donnée utilisateur n'est collectée ni transmise à partir de ces fichiers. Ne commitez jamais :
@@ -68,7 +33,6 @@ Pour toute question, suggestion ou problème :
 
 - **Email** : [octopidev.contact@gmail.com](mailto:octopidev.contact@gmail.com)
 - **Soutenir le projet** : [Liberapay — Octopi-Dev](https://liberapay.com/Octopi-Dev/)
-- **Issues** : [github.com/Dev-code3D/duetrack/issues](https://github.com/Dev-code3D/duetrack/issues)
 
 ## 📄 Licence
 
